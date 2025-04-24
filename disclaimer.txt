@@ -1,0 +1,5 @@
+DISCLAIMER: This project is for educational purposes only.
+
+All names, vendors, markets, products, and pricing data are fictional and generated for the purpose of demonstrating SQL skills.
+
+This database does not reflect any real-life business, market, or individual in Nigeria or elsewhere.
